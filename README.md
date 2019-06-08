@@ -14,7 +14,7 @@
 
 [IBM Blockchain Platform introduction](https://www.slideshare.net/LennartF/ibm-blockchain-platform)
 
-[Solutions] ( )
+[Solutions] (https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
 
 
 ## Hands-on-lab : Developing smart contracts with Visual Studio Code extension
