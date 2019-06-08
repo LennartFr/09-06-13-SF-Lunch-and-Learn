@@ -7,8 +7,11 @@ SF Lunch and Learn
 
 ## Introduction
 
+[IBM Technical Introduction](https://www.slideshare.net/LennartF/ibp-technical-introduction)
+
 [IBM Blockchain Platform introduction](https://www.slideshare.net/LennartF/ibm-blockchain-platform)
 
+[Solutions] ( )
 
 
 ## Hands-on-lab : Developing smart contracts with Visual Studio Code extension
