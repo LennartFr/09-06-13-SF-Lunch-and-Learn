@@ -10,6 +10,8 @@ Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
 
 Christian Cachin. https://twitter.com/cczurich?lang=en
 
+IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
+
 # Table of Contents
 
 [Source](https://github.com/hyperledger)
