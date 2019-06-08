@@ -5,6 +5,6 @@ SF Lunch and Learn
 
 ## Introduction
 
-## Hands-on-lab
+## Hands-on-lab : Developing smart contracts with Visual Studio Code extension
 
 ## Where do we go from here?
