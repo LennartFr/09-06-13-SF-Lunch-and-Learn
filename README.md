@@ -2,6 +2,14 @@
 
 # 09-06-13-SF-Lunch-and-Learn
 
+## Contacts:
+
+Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
+
+Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
+
+Christian Cachin. https://twitter.com/cczurich?lang=en
+
 # Table of Contents
 
 [Source](https://github.com/hyperledger)
