@@ -14,8 +14,8 @@
 
 [IBM Blockchain Platform introduction](https://www.slideshare.net/LennartF/ibm-blockchain-platform)
 
-[Solutions] (https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
-
+[Solutions](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
+[ ](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/)
 
 ## Hands-on-lab : Developing smart contracts with Visual Studio Code extension
 
@@ -27,3 +27,5 @@
 ## Where do we go from here?
 
 [https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/](Build a blockchain insurance app)
+
+[IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/)
