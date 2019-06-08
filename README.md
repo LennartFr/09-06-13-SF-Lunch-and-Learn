@@ -25,3 +25,5 @@
 ## [IBM Blockchain Platform 1.2](https://cloud.ibm.com/catalog/services/blockchain-platform)
 
 ## Where do we go from here?
+
+[https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/](Build a blockchain insurance app)
