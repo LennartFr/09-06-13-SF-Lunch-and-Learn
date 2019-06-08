@@ -1,7 +1,6 @@
 ## [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
 
 # 09-06-13-SF-Lunch-and-Learn
-SF Lunch and Learn
 
 # Table of Contents
 
