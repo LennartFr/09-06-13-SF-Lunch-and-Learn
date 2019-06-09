@@ -2,6 +2,8 @@
 
 # 09-06-13-SF-Lunch-and-Learn
 
+# [Hyperledger Fabric 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
+
 ## News
 
 [Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
