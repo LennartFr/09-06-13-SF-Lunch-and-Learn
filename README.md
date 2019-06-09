@@ -7,7 +7,7 @@
 During the Global Financial Crisis in 2008:<br>
 
 Oct 2008. It all started with Satoshi Nakamoto and his paper [BitCoin a Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
-<i><b>
+<p><i><b>
 A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
 <br>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
