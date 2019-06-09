@@ -43,6 +43,6 @@ From Hyperledger Fabric to IBM Blockchain Platform 2.0
 
 ## Where do we go from here?
  
-[https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/](Build a blockchain insurance app)
+[Build a blockchain insurance app](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
 
 [IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/)
