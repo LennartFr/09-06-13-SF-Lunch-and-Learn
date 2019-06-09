@@ -2,7 +2,7 @@
 
 # 09-06-13-SF-Lunch-and-Learn
 
-## Contacts:
+## IBM Blockchain Twitter feeds:
 
 Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
 
