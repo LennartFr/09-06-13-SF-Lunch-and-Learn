@@ -10,6 +10,16 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
 
+[Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
+
+[IBM Blockchain Garage Services](https://www.ibm.com/blockchain/garage)
+
+[Hyperledger Fabric: DLT Distributed Ledger Technology Smart Contract Engine ](https://www.hyperledger.org/projects/fabric)
+
+[Hyperledger Fabric source](https://github.com/hyperledger)
+
+[Hyperledger Fabric ReadTheDocs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
+
 
 
 ## News
@@ -33,16 +43,6 @@ IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
 Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
 
 # Table of Contents
-
-[Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
-
-[IBM Blockchain Garage Services](https://www.ibm.com/blockchain/garage)
-
-[Hyperledger Fabric: DLT Distributed Ledger Technology Smart Contract Engine ](https://www.hyperledger.org/projects/fabric)
-
-[Hyperledger Fabric source](https://github.com/hyperledger)
-
-[Hyperledger Fabric ReadTheDocs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
 
 ## Introduction
 
