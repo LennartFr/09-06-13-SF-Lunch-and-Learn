@@ -4,14 +4,15 @@
 
 ## News
 
+[Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
+
 [Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
 
+[Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
 
 ## IBM Blockchain Twitter feeds:
 
 Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
-
-[Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
 
 Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
 
