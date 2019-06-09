@@ -14,6 +14,8 @@ Digital signatures provide part of the solution, but the main benefits are lost 
 <p>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # [Hyperledger Fabric 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
 
 Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
