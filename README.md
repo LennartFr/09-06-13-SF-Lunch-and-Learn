@@ -24,7 +24,7 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 
 ## Introduction
 
-From Hyperledger Fabric to IBM Blockchain Platform 2.0
+
 
 [Programming Hyperledger Fabric introduction](https://www.slideshare.net/LennartF/ibp-technical-introduction)
 
