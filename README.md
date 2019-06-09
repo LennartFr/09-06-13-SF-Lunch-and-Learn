@@ -2,6 +2,14 @@
 
 # 09-06-13-SF-Lunch-and-Learn
 
+## How did it all start?
+
+Oct 2008. It all started with Satoshi Nakamoto and his paper [BitCoin a Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
+<i>
+A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
+
+</i>We propose a solution to the double-spending problem using a peer-to-peer network. 
+
 # [Hyperledger Fabric 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
 
 Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
