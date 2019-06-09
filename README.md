@@ -2,6 +2,11 @@
 
 # 09-06-13-SF-Lunch-and-Learn
 
+## News
+
+[Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
+
+
 ## IBM Blockchain Twitter feeds:
 
 Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
