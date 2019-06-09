@@ -69,7 +69,11 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 ## Hands-on-lab : Developing smart contracts with Visual Studio Code extension 
 
 [Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
- 
+
+[Download  Visual Studio Code](https://code.visualstudio.com/)
+
+
+
 [IBM Blockchain Platform 1.2](https://cloud.ibm.com/catalog/services/blockchain-platform)
 
 ## Where do we go from here?
