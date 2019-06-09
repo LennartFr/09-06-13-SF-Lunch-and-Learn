@@ -24,6 +24,10 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 
 # Table of Contents
 
+[Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
+
+[IBM Blockchain Garage Services](https://www.ibm.com/blockchain/garage)
+
 [Hyperledger Fabric: DLT Distributed Ledger Technology Smart Contract Engine ](https://www.hyperledger.org/projects/fabric)
 
 [Hyperledger Fabric source](https://github.com/hyperledger)
