@@ -30,7 +30,7 @@ From Hyperledger Fabric to IBM Blockchain Platform 2.0
 
 ----
 
-
+[IBM Blockchain Platform](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
 -----
 
 
