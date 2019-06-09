@@ -30,7 +30,9 @@ From Hyperledger Fabric to IBM Blockchain Platform 2.0
 
 [IBM Blockchain Platform introduction](https://www.slideshare.net/LennartF/ibm-blockchain-platform)
 
-[IBM Blockchain Solutions](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/)
+[IBM Blockchain Solutions](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
+
+[IBM SF Bay Area Meetups](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/)
 
 ## Hands-on-lab : Developing smart contracts with Visual Studio Code extension 
 
