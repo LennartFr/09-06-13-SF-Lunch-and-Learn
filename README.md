@@ -6,6 +6,12 @@
 
 Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
 
+1. [Hyperledger Fabric’s First long term support release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service)
+
+1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
+
+
+
 ## News
 
 [Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
@@ -39,13 +45,6 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 [Hyperledger Fabric ReadTheDocs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
 
 ## Introduction
-
-Hyperledger Fabric v.1.4:
-
-1. [Hyperledger Fabric’s First long term support release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service)
-
-1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
-
 
 [Programming Hyperledger Fabric introduction](https://www.slideshare.net/LennartF/ibp-technical-introduction)
 
