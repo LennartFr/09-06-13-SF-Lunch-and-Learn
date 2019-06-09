@@ -16,9 +16,9 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 
 # Table of Contents
 
-[Source](https://github.com/hyperledger)
+[Hyperledger Fabric source](https://github.com/hyperledger)
 
-[ReadTheDocs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
+[Hyperledger Fabric ReadTheDocs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
 
 ## Introduction
 
