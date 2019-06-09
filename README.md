@@ -5,6 +5,7 @@
 ## IBM Blockchain Twitter feeds:
 
 Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
+[Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
 
 Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
 
