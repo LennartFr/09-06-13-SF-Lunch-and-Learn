@@ -16,7 +16,7 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 
 # Table of Contents
 
-[DLT Distributed Ledger Technology Smart Contract Engine ](https://www.hyperledger.org/projects/fabric)
+[Hypeerledger Fabric: DLT Distributed Ledger Technology Smart Contract Engine ](https://www.hyperledger.org/projects/fabric)
 
 [Hyperledger Fabric source](https://github.com/hyperledger)
 
