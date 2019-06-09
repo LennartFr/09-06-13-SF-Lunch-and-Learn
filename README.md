@@ -36,7 +36,7 @@ From Hyperledger Fabric to IBM Blockchain Platform 2.0
 
 [Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
 
-
+ 
 ## [IBM Blockchain Platform 1.2](https://cloud.ibm.com/catalog/services/blockchain-platform)
 
 ## Where do we go from here?
