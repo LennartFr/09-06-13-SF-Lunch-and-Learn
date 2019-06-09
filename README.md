@@ -22,13 +22,11 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 
 [Hyperledger Fabric ReadTheDocs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
 
-
-
 ## Introduction
 
 From Hyperledger Fabric to IBM Blockchain Platform 2.0
 
-[IBM Technical Introduction](https://www.slideshare.net/LennartF/ibp-technical-introduction)
+[IBM Blockchain Technical Introduction](https://www.slideshare.net/LennartF/ibp-technical-introduction)
 
 [IBM Blockchain Platform introduction](https://www.slideshare.net/LennartF/ibm-blockchain-platform)
 
