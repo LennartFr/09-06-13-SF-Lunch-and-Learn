@@ -4,6 +4,8 @@
 
 # [Hyperledger Fabric 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
 
+Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
+
 ## News
 
 [Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
