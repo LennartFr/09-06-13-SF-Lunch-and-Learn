@@ -54,6 +54,8 @@ IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
 
 Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Table of Contents
 
 ## Introduction
@@ -64,13 +66,19 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 
 [IBM Blockchain Solutions](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## Hands-on-lab : Developing smart contracts with Visual Studio Code extension 
 
 [Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
 
-[Download  Visual Studio Code](https://code.visualstudio.com/)
+[Download Visual Studio Code](https://code.visualstudio.com/)
 
 [Install IBM Blockchain Platform ](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+
+Go through Tutorial One: Local Smart Contract Development.
+Follow the typicalworkflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an application gateway</i> 
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 [IBM Blockchain Platform 1.2](https://cloud.ibm.com/catalog/services/blockchain-platform)
 
