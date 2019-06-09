@@ -34,8 +34,6 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 [Hyperledger Fabric ReadTheDocs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
 
-
-
 ## News
 
 [Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
@@ -72,7 +70,7 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 
 [Download  Visual Studio Code](https://code.visualstudio.com/)
 
-
+[Install IBM Blockchain Platform ](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
 [IBM Blockchain Platform 1.2](https://cloud.ibm.com/catalog/services/blockchain-platform)
 
