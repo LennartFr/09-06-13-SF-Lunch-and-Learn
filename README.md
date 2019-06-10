@@ -4,7 +4,7 @@
 
 # IBM Cloud sign-up link: [https://ibm.biz/Bdzqsf](https://ibm.biz/Bdzqsf)
 
-# IBM Cloud Catalog link: [[https://ibm.biz/Bdzqsf/catalog](https://ibm.biz/Bdzqsf/catalog)
+# IBM Cloud Catalog link: [https://ibm.biz/Bdzqsf/catalog](https://ibm.biz/Bdzqsf/catalog)
 
 
 ## How did it all start?
