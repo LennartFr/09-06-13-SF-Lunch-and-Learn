@@ -4,7 +4,7 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-<img src="devrelcon.png">
+<img src="devrelcon.png" width=300 height=300>
 
 
 ## Let's start with the code:
