@@ -1,5 +1,7 @@
 # Event URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
 
+# An introduction to the brand new IBM Blockchain Platform 2.0 in the Cloud!
+
 # 09-06-13-SF-Lunch-and-Learn
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
