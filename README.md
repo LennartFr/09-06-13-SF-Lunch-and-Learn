@@ -1,6 +1,6 @@
 # Event URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
 
-# An introduction to the brand new IBM Blockchain Platform 2.0 in the Cloud!
+## Title: An introduction to the brand new IBM Blockchain Platform 2.0 in the Cloud!
 
 # linkedin.com/in/lennartfrantzell
 
