@@ -2,6 +2,8 @@
 
 # 09-06-13-SF-Lunch-and-Learn
 
+## Let's start with the code:
+
 ### IBM Cloud sign-up link: [https://ibm.biz/Bdzqsf](https://ibm.biz/Bdzqsf)
 
 ### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
@@ -14,6 +16,7 @@
 
 ### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
+### [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)
 
 ## How did it all start?
 
