@@ -8,7 +8,11 @@
 
 ### IBM Blockchain in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain)
 
-### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster)
+### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
+
+### [Visual Studio Code](https://code.visualstudio.com)
+
+### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
 
 ## How did it all start?
