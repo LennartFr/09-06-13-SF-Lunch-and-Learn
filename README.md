@@ -10,6 +10,8 @@
 
 ## Let's start with the Hyperledger Fabric code:
 
+### [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)
+
 ### [Writing your first application with Smart Contracts in Node.js in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
 
 ##  Then let's talk about IBM Blockchain Platform
@@ -24,14 +26,9 @@
 
 <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">Blockchain IBP Pricing</a>
 "** Preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud Kubernetes free cluster. Performance will be limited by throughput, storage and functionality. IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
-
-
-
 ### [Visual Studio Code](https://code.visualstudio.com)
 
 ### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
-
-### [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)
 
 ## How did it all start?
 
