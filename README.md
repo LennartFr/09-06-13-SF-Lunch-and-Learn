@@ -8,9 +8,6 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-<img src="devrelcon.png" width=300 height=200>
-
-
 ## Let's start with the code:
 
 ### [Writing your first application in Node,js in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
