@@ -10,7 +10,7 @@
 
 ## Let's start with the Hyperledger Fabric code:
 
-### [Writing your first application in Node.js in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
+### [Writing your first application with Smart Contracts in Node.js in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
 
 ##  Then let's talk about IBM Blockchain Platform
 
