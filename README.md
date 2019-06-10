@@ -2,7 +2,7 @@
 
 # 09-06-13-SF-Lunch-and-Learn
 
-# IBM Cloud sign-in link: [https://ibm.biz/Bdzqsf](https://ibm.biz/Bdzqsf)
+# IBM Cloud sign-up link: [https://ibm.biz/Bdzqsf](https://ibm.biz/Bdzqsf)
 
 
 ## How did it all start?
