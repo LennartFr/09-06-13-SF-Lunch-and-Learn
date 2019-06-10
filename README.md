@@ -97,7 +97,7 @@ Follow the typicalworkflow from generating a new smart contract project, deployi
 
 [IBM Blockchain Platform 1.2](https://cloud.ibm.com/catalog/services/blockchain-platform)
 
-## Where do we go from here?
+## Where do we go from here? 
  
 [Build a blockchain insurance app](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
 
