@@ -21,7 +21,7 @@ Digital signatures provide part of the solution, but the main benefits are lost 
 <p>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
 
-## Let's start with the Hyperledger Fabric:
+## Let's start with Hyperledger Fabric:
 
 ### [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)
 
