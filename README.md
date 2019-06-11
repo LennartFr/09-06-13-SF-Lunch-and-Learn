@@ -15,7 +15,7 @@
 
 ### [Writing your first application with Smart Contracts in Node.js in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
 
-## [Hyperledger Fabric 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
+### [Hyperledger Fabric 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
 
 Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
 
