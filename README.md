@@ -9,6 +9,18 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+## How did it all start?
+
+During the Global Financial Crisis in 2008:<br>
+
+Oct 2008. It all started with Satoshi Nakamoto and his paper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
+<p><i><b>
+A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. 
+<p> 
+Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
+<p>
+We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
+
 ## Let's start with the Hyperledger Fabric:
 
 ### [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)
@@ -23,6 +35,17 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
     Fault Tolerance consensus algorithm     
+
+
+
+## News
+
+[Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
+
+[Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
+
+[Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
+
 
 [Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
 
@@ -46,25 +69,7 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## How did it all start?
 
-During the Global Financial Crisis in 2008:<br>
-
-Oct 2008. It all started with Satoshi Nakamoto and his paper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
-<p><i><b>
-A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. 
-<p> 
-Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
-<p>
-We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
-
-## News
-
-[Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
-
-[Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
-
-[Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
 
 ## IBM Blockchain Twitter feeds:
 
