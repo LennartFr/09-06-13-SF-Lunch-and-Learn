@@ -15,6 +15,24 @@
 
 ### [Writing your first application with Smart Contracts in Node.js in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
 
+## [Hyperledger Fabric 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
+
+Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
+
+1. [Hyperledger Fabric’s First long term support release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service)
+
+1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
+
+[Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
+
+[IBM Blockchain Garage Services](https://www.ibm.com/blockchain/garage)
+
+[Hyperledger Fabric: DLT Distributed Ledger Technology Smart Contract Engine ](https://www.hyperledger.org/projects/fabric)
+
+[Hyperledger Fabric source](https://github.com/hyperledger)
+
+[Hyperledger Fabric ReadTheDocs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
+
 ##  Then let's talk about IBM Blockchain Platform
 
 ### IBM Cloud sign-up link: [https://ibm.biz/Bdzqsf](https://ibm.biz/Bdzqsf)
@@ -44,24 +62,6 @@ A purely peer-to-peer version of electronic cash would allow online payments to 
 Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
 <p>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
-
-# [Hyperledger Fabric 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
-
-Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
-
-1. [Hyperledger Fabric’s First long term support release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service)
-
-1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
-
-[Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
-
-[IBM Blockchain Garage Services](https://www.ibm.com/blockchain/garage)
-
-[Hyperledger Fabric: DLT Distributed Ledger Technology Smart Contract Engine ](https://www.hyperledger.org/projects/fabric)
-
-[Hyperledger Fabric source](https://github.com/hyperledger)
-
-[Hyperledger Fabric ReadTheDocs](https://hyperledger-fabric.readthedocs.io/en/release-1.4/)
 
 ## News
 
