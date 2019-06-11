@@ -36,6 +36,9 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
     Fault Tolerance consensus algorithm     
 
+[Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
+
+[IBM Blockchain Garage Services](https://www.ibm.com/blockchain/garage)
 
 
 ## News
@@ -45,11 +48,6 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 [Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
 
 [Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
-
-
-[Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
-
-[IBM Blockchain Garage Services](https://www.ibm.com/blockchain/garage)
 
 ##  Then let's talk about IBM Blockchain Platform
 
@@ -68,8 +66,6 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 ### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-
 
 ## IBM Blockchain Twitter feeds:
 
