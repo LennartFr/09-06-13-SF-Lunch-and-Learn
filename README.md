@@ -115,7 +115,7 @@ Follow the typicalworkflow from generating a new smart contract project, deployi
 
 ## Where do we go from here? 
 
-]June 21: Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
+[June 21: Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
  
 [Build a blockchain insurance app](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
 
