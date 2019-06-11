@@ -22,6 +22,7 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 1. [Hyperledger Fabric’s First long term support release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service)
 
 1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
+    Fault Tolerance consensus algorithm     
 
 [Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
 
