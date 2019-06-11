@@ -114,8 +114,6 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-[IBM Blockchain Platform 1.2](https://cloud.ibm.com/catalog/services/blockchain-platform)
-
 ## Where do we go from here? 
 
 [June 21: Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
