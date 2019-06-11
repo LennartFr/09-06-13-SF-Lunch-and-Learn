@@ -49,7 +49,7 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 [Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
 
-##  Then let's talk about IBM Blockchain Platform
+##  Now let's talk about IBM Blockchain Platform
 
 ### IBM Cloud sign-up link: [https://ibm.biz/Bdzqsf](https://ibm.biz/Bdzqsf)
 
