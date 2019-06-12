@@ -51,7 +51,7 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 [Cargill Hyperledger Grid](https://www.cargill.com/2019/cargill-invests-digital-engineering-to-support-hyperledger-grid)
 
-[Target Bkockchain for Suoply Chain]https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains)
+[Target Blockchain for Suoply Chain](https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains)
 
 [Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
 
