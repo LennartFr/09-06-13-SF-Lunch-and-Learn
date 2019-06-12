@@ -61,7 +61,7 @@ Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4fe
 
 Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
 
-Christian Cachin. https://twitter.com/cczurich?lang=en
+Christian Cachin IBM Cryptographer, Zurich. https://twitter.com/cczurich?lang=en
 
 IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
 
