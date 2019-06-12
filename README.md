@@ -82,7 +82,7 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 
 <img src="IBP_2.0.png">
 
-IMA Enabled= "Identidy and Access Management"
+IAM Enabled= "Identidy and Access Management"
 
 
 ### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
@@ -98,7 +98,6 @@ IMA Enabled= "Identidy and Access Management"
 ### [Visual Studio Code](https://code.visualstudio.com)
 
 ### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
-
 
 <img src="architecture.png">
 
