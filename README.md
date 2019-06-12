@@ -55,6 +55,19 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 [Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
 
+## IBM Blockchain Twitter feeds:
+
+Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
+
+Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
+
+Christian Cachin. https://twitter.com/cczurich?lang=en
+
+IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
+
+Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
+
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ##  Now let's talk about IBM Blockchain Platform 
@@ -67,7 +80,6 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 ### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
 
 ### IBM Blockchain Platform in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). Select "Blockchain Platform IBM IAM-enabled"
-
 
 <img src="IBP_2.0.png">
 
@@ -88,23 +100,8 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## IBM Blockchain Twitter feeds:
-
-Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
-
-Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
-
-Christian Cachin. https://twitter.com/cczurich?lang=en
-
-IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
-
-Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Table of Contents
-
-## Introduction
 
 <img src="architecture.png">
 
