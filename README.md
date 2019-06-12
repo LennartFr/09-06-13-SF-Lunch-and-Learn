@@ -79,7 +79,7 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 ## Development
 
 
-< img src="VSC.BC.png">
+<img src="VSC_BC.png">
 
 
 ### [Visual Studio Code](https://code.visualstudio.com)
