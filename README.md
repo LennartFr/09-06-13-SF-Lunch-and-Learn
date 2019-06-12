@@ -29,7 +29,7 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 ### https://hyperledger-fabric.readthedocs.io/en/release-1.1/releases.html#v0-5-developer-preview-june-17-2016
 
-### [Hyperledger Fabric 1.4](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
+### [Hyperledger Fabric 1.4.1](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
 
 Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
 
