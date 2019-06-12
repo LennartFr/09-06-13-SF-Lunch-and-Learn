@@ -67,7 +67,6 @@ IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
 
 Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
 
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ##  Now let's talk about IBM Blockchain Platform 
@@ -90,17 +89,12 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 
 ## Development
 
-
 <img src="VSC_BC.png">
 
 
 ### [Visual Studio Code](https://code.visualstudio.com)
 
 ### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 
 <img src="architecture.png">
