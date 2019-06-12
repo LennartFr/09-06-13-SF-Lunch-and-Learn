@@ -69,6 +69,8 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 ### IBM Blockchain Platform in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). Select "Blockchain Platform IBM IAM-enabled"
 
 
+<img src="ibp_2.0.png">
+
 ### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
 
 <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">Blockchain IBP Pricing</a>
