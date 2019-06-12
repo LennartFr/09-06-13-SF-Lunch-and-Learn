@@ -78,6 +78,10 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 ## Development
 
+
+< img src="VSC.BC.png">
+
+
 ### [Visual Studio Code](https://code.visualstudio.com)
 
 ### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
