@@ -103,13 +103,14 @@ Download and Install VS Code - a free source-code editor developed by Microsoft 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 <img src="architecture.png">
 Run IBP on IBM Cloud or locally on your machine.
+
 ### Hands-On Lab
 **Developing Smart Contracts using Visual Studio (VS) Code**
 
-Ensure you have [VS Code](https://code.visualstudio.com) installed and the [IBM Blockchain Platform extension](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform).
+- Ensure you have [VS Code](https://code.visualstudio.com) installed and the [IBM Blockchain Platform extension](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform).
 
-Go through Tutorial One in VS Code: Local Smart Contract Development. <br>
-<img src="VSCODE_TUT1.PNG" width="300" height="500">
+In VS Code, go through **Tutorial One**: Local Smart Contract Development. <br>
+<img src="VSCODE_TUT1.PNG" width="300" height="500"> <br>
 Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an <i>application gateway</i>.
 
 ### Additional Lab
@@ -129,17 +130,17 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 ### Blockchain Genesis: How did it all start?
 
-During the Global Financial Crisis in 2008: Oct 2008. <br>
-It all started with Satoshi Nakamoto and his whitepaper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
+During the Global Financial Crisis of 2008, Blockchain was invented by a person (or group of people) using the name Satoshi Nakamoto to serve as the public transaction ledger of the cryptocurrency bitcoin. The identity of Satoshi Nakamoto is unknown. 
+His whitepaper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) is available to read through and focuses on addressing a key problem in electronic commerce:
 <p><i><b>
-A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution or any intermeditary. 
+A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution or any intermediary. 
 <p> 
 Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
 <p>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
 
 ### Hyperledger Fabric
-Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
+Enterprise-grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
 
 #### [HL Fabric (GitHub)](https://github.com/hyperledger/fabric)
 
