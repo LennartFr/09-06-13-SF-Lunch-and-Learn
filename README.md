@@ -1,5 +1,5 @@
 ## GitHub URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
-**Note:**  Capital "i" and not "l" in the URL.
+**Note:**  Capital "i" after the number "2" in the URL.
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # An Introduction to IBM Blockchain Platform (IBP)!
 
@@ -156,15 +156,15 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 ### Hyperledger Fabric
 Enterprise-grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
 
-#### [HL Fabric (GitHub)](https://github.com/hyperledger/fabric)
+- [HL Fabric (GitHub)](https://github.com/hyperledger/fabric)
 
-#### [Writing your first application using Smart Contracts (Node.js) in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
+- [Writing your first application using Smart Contracts (Node.js) in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
 
-#### [Hyperledger Fabric 1.4.1 - Release Notes](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
+- [Hyperledger Fabric 1.4.1 - Release Notes](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
 
-1. [Hyperledger Fabric - What's New](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html)
+  * [Hyperledger Fabric - What's New](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html)
 
-2. [Raft Ordering Service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) -
+  * [Raft Ordering Service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) -
 Fault Tolerance Consensus Algorithm   
 
 - [Use Cases for Blockchain](https://www.ibm.com/blockchain/use-cases/)
