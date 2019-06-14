@@ -21,8 +21,8 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
     + [Windows](#windows)
   * [Install Required Packages](#required-packages)
   * [Install Visual Studio Code](#install-visual-studio-code)
-  * [Hands-On Lab](#hands-on-lab)
-  * [Additional Lab](#additional-lab)
+  * [Hands-On Lab :ledger:](#hands-on-lab-ledger)
+  * [Additional Lab :ledger:](#additional-lab-ledger)
 - [Reference](#reference-1)
   * [Upcoming Events](#upcoming-events)
   * [Recent News](#recent-news)
@@ -114,9 +114,9 @@ In VS Code, go through **Tutorial One**: Local Smart Contract Development. <br>
 <img src="VSCODE_TUT1.PNG" width="300" height="500"> <br>
 Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an <i>application gateway</i>.
 
-### Additional Lab
+### Additional Lab :ledger:
 
-:ledger: [Build a Blockchain Insurance App](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
+[Build a Blockchain Insurance App](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
