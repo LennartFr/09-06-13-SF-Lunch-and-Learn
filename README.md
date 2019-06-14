@@ -145,3 +145,4 @@ Follow the typical workflow from generating a new smart contract project, deploy
 [IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/)
 
 [IBM SF Bay Area Meetups](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/)
+  
