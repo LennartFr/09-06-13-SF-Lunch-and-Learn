@@ -96,7 +96,7 @@ If needed, reference the [installation instructions](https://chocolatey.org/inst
 For reference, [IBM Cloud documentation](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install) for developing smart contracts with Visual Studio Code extension.
 
 ### [Install Visual Studio Code](https://code.visualstudio.com)
-Download and Install VS Code - a free source-code editor developed by Microsoft and available for Windows, Linux and Mac OS.  It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.
+Download and Install [VS Code](https://code.visualstudio.com) - a free source-code editor developed by Microsoft and available for Windows, Linux and Mac OS.  It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.
 
 #### [Install IBM Blockchain Platform (extension) for VS Code](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
