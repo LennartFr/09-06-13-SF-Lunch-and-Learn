@@ -79,6 +79,8 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+# Learning Objective 1: How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
+
 ##  Now let's talk about IBM Blockchain Platform 
 
 ### IBM Cloud sign-up link: [https://ibm.biz/Bdzqsf](https://ibm.biz/Bdzqsf)
@@ -100,7 +102,7 @@ IAM Enabled= "Identidy and Access Management"
 <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">Blockchain IBP Pricing</a>
 "** Preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud Kubernetes free cluster. Performance will be limited by throughput, storage and functionality. IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
 
-## Development
+# Learning Objective 2: On your laptop: how to install the IBM Visual Studio Code with the brand new IBP plugin
 
 <img src="VSC_BC.png">
 
