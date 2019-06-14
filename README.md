@@ -67,7 +67,7 @@ Note: "You can preview the IBM Blockchain Platform at no charge for 30 days when
 
 #### Linux
 Open your terminal environment and update the respositories and installed packages using the following command: <br>
-sudo apt-get update && sudo apt-get upgrade
+> `sudo apt-get update && sudo apt-get upgrade`
 
 #### Mac OS
 We recommend using a package installer like [Homebrew](https://brew.sh/) to facilitate the installation of packages. <br>
@@ -109,6 +109,7 @@ Run IBP on IBM Cloud or locally on your machine.
 - Ensure you have [VS Code](https://code.visualstudio.com) installed and the [IBM Blockchain Platform extension](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform).
 
 In VS Code, go through **Tutorial One**: Local Smart Contract Development. <br>
+
 <img src="VSCODE_TUT1.PNG" width="300" height="500"> <br>
 Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an <i>application gateway</i>.
 
@@ -122,7 +123,7 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 ### Upcoming Events
 
-**June 21, 2019** - [Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
+- [Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com) **June 21, 2019** 
 
 Join our Meetup Group: [IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/)
 
