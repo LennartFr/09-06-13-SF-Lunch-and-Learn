@@ -1,7 +1,6 @@
 ## GitHub URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
 **Note:**  Capital "i" and not "l" in the URL.
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 # An Introduction to IBM Blockchain Platform (IBP)!
 
 ### From Hyperledger Fabric to IBM Blockchain Platform 2.0
@@ -10,10 +9,10 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 
 **Contents**
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
+- [IBM Cloud and IBM Blockchain Platform](#ibm-cloud-and-ibm-blockchain-platform)
+  * [IBM Cloud Sign-up](#sign-up-for-ibm-cloud)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
+- [Development](#Development)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Reference](#heading-2)
@@ -32,15 +31,15 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 
 <img src="login.png">
 
-### [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
+#### [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
 
-### Run [IBM Blockchain Platform](https://cloud.ibm.com/catalog?search=blockchain) on the IBM Cloud
+#### Run [IBM Blockchain Platform](https://cloud.ibm.com/catalog?search=blockchain) on the IBM Cloud
 - Select the "Blockchain Platform | IBM IAM-enabled" option.
 (IAM refers to Identity Access Management)
 
 <img src="IBP_2.0.png">
 
-### Run a [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) on the IBM Cloud
+#### Run a [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) on the IBM Cloud
 
 Reference: <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">IBP Pricing</a>
 "*Preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud Kubernetes (free cluster).  Performance will be limited by throughput, storage and functionality.  IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
@@ -55,9 +54,9 @@ Reference: <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockch
 
 <img src="architecture.png">
 
-[An introductioon to programming Hyperledger Fabric](https://www.slideshare.net/LennartF/ibp-technical-introduction)
+[An Introduction to Programming on Hyperledger Fabric](https://www.slideshare.net/LennartF/ibp-technical-introduction)
 
-[IBM Blockchain Platform](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
+[IBM Blockchain Platform (IBP)](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
 
 [IBM Blockchain Solutions](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
 
@@ -67,7 +66,7 @@ Reference: <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockch
 
 [Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
 
-[Download Visual Studio Code](https://code.visualstudio.com/)
+[Download and Install Visual Studio Code](https://code.visualstudio.com/)
 
 [Install IBM Blockchain Platform for VS Code ](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
