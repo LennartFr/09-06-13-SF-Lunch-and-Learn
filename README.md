@@ -11,7 +11,8 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 
 - [IBM Cloud and IBM Blockchain Platform](#ibm-cloud-and-ibm-blockchain-platform)
   * [IBM Cloud Sign-up](#sign-up-for-ibm-cloud)
-    + [Sub-sub-heading](#sub-sub-heading)
+    + [Run IBM Blockchain Platform](#run-ibm-blockchain-platform-on-the-ibm-cloud)
+    + [Run a free Kubernetes Cluster](#run-a-free-kubernetes-cluster-on-the-ibm-cloud)
 - [Development](#Development)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
@@ -31,19 +32,19 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 
 <img src="login.png">
 
-#### [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
-
 #### Run [IBM Blockchain Platform](https://cloud.ibm.com/catalog?search=blockchain) on the IBM Cloud
-- Select the "Blockchain Platform | IBM IAM-enabled" option.
-(IAM refers to Identity Access Management)
+- Select the "Blockchain Platform | IBM IAM-enabled" option.  (IAM refers to Identity Access Management)
 
 <img src="IBP_2.0.png">
 
-#### Run a [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) on the IBM Cloud
+#### Run a free [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) on the IBM Cloud
 
-Reference: <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">IBP Pricing</a>
-"*Preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud Kubernetes (free cluster).  Performance will be limited by throughput, storage and functionality.  IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
+##### Reference
+- [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
+- <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">IBP Pricing</a>
+"Note: *You can preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud - Kubernetes (free cluster).  Performance will be limited by throughput, storage and functionality.  IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## Development
 
 <img src="VSC_BC.png">
@@ -76,16 +77,15 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 <img src="VSCODE_TUT1.PNG" width="300" height="500">
 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 ### Additional Lab
 [Build a Blockchain Insurance App](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## Reference
 
 ### Upcoming Events
 
-[June 21: Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
+**June 21, 2019** - [Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
 
 [IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/) (Meetup Group)
 
@@ -111,14 +111,14 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 #### [Hyperledger Fabric 1.4.1 - Release Notes](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
 
-1. [Hyperledger Fabric’s First LTS (Long Term Support) Release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html)
+1. [Hyperledger Fabric - What's New](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html)
 
 2. [Raft Ordering Service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) -
 Fault Tolerance Consensus Algorithm   
 
-[Use Cases for Blockchain](https://www.ibm.com/blockchain/use-cases/)
+- [Use Cases for Blockchain](https://www.ibm.com/blockchain/use-cases/)
 
-[IBM Blockchain - Garage Services](https://www.ibm.com/blockchain/garage)
+- [IBM Blockchain - Garage Services](https://www.ibm.com/blockchain/garage)
 
 
 ### Recent News
