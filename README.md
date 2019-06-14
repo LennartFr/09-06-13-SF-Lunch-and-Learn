@@ -19,15 +19,15 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
     + [Linux](#linux)
     + [Mac OS](#mac-os)
     + [Windows](#windows)
-    + [Required Packages](#packages)
+    + [Install Required Packages](#required-packages)
     + [Visual Studio Code](#visual-studio-code)
   * [Hands-On Lab](#hands-on-lab)
-  * [Additonal Lab](#additional-lab)
+  * [Additional Lab](#additional-lab)
 - [Reference](#reference)
   * [Upcoming Events](#upcoming-events)
+  * [Recent News](#recent-news)
   * [Blockchain - When did it start?](#blockchain-genesis-how-did-it-all-start)
   * [Hyperledger (HL) Fabric](#hyperledger-fabric)
-  * [Recent News](#recent-news)
   * [Twitter Accounts](#twitter-accounts-to-follow)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
@@ -71,27 +71,26 @@ sudo apt-get update && sudo apt-get upgrade
 
 #### Mac OS
 We recommend using a package installer like [Homebrew](https://brew.sh/) to facilitate the installation of packages. <br>
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+> `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 
 If needed, there are [other installation options](https://docs.brew.sh/Installation) available.
 
 #### Windows
 We recommend using a package installer like [Chocolately](https://chocolatey.org/) to facilitate the installation of packages. <br>
 - Install with cmd.exe using the following command: <br>
-@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+> `@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"`
 
 - Install with PowerShell.exe* using the following command: <br>
-Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+> `Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))`
 
 * An additional step is needed to ensure Get-ExecutionPolicy is not Restricted.
 
 If needed, reference the [installation instructions](https://chocolatey.org/install).
 
 #### Required Packages
-- Install Docker
-- Install Node (which should install NPM)
-- Install Yeoman
-npm install -g yo
+- Install Docker using apt, brew or choco.
+- Install Node (which should install NPM) using apt, brew or choco.
+- Install Yeoman using `npm install -g yo`
 
 For reference, [IBM Cloud documentation](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install) for developing smart contracts with Visual Studio Code extension.
 
@@ -114,6 +113,7 @@ In VS Code, go through **Tutorial One**: Local Smart Contract Development. <br>
 Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an <i>application gateway</i>.
 
 ### Additional Lab
+
 [Build a Blockchain Insurance App](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
@@ -124,9 +124,21 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 **June 21, 2019** - [Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
 
-[IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/) (Meetup Group)
+Join our Meetup Group: [IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/)
 
-[IBM Developer SF Bay Area Events](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/) (Meetup Events)
+Review our Meetup Events: [IBM Developer SF Bay Area Events](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/)
+
+### Recent News
+
+- [Does Hyperledger Fabric Perform at Scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
+
+- [Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
+
+- [Cargill - Hyperledger Grid](https://www.cargill.com/2019/cargill-invests-digital-engineering-to-support-hyperledger-grid)
+
+- [Target Blockchain for Supply Chain](https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains)
+
+- [Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
 
 ### Blockchain Genesis: How did it all start?
 
@@ -156,18 +168,6 @@ Fault Tolerance Consensus Algorithm
 - [Use Cases for Blockchain](https://www.ibm.com/blockchain/use-cases/)
 
 - [IBM Blockchain - Garage Services](https://www.ibm.com/blockchain/garage)
-
-### Recent News
-
-- [Does Hyperledger Fabric Perform at Scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
-
-- [Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
-
-- [Cargill - Hyperledger Grid](https://www.cargill.com/2019/cargill-invests-digital-engineering-to-support-hyperledger-grid)
-
-- [Target Blockchain for Supply Chain](https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains)
-
-- [Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
 
 ### Twitter Accounts to Follow
 
