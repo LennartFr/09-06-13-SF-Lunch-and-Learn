@@ -1,5 +1,5 @@
 ## GitHub URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
-**Note:**  Capital "i" and not "l" in the URL.
+  **Note:**  Capital "i" and not "l" in the URL.
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # An Introduction to IBM Blockchain Platform (IBP)!
 
@@ -140,7 +140,7 @@ Review our Meetup Events: [IBM Developer SF Bay Area Events](https://www.meetup.
 
 - [Target Blockchain for Supply Chain](https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains)
 
-- [Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
+- [Why new off-chain storage is required for blockchain](https://www.ibm.com/downloads/cas/RXOVXAPM)
 
 ### Blockchain Genesis: How did it all start?
 
