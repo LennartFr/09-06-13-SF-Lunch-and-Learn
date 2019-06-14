@@ -19,11 +19,11 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
     + [Linux](#linux)
     + [Mac OS](#mac-os)
     + [Windows](#windows)
-    + [Install Required Packages](#required-packages)
-    + [Visual Studio Code](#visual-studio-code)
+  * [Install Required Packages](#required-packages)
+  * [Install Visual Studio Code](#install-visual-studio-code)
   * [Hands-On Lab](#hands-on-lab)
   * [Additional Lab](#additional-lab)
-- [Reference](#reference)
+- [Reference](#reference-1)
   * [Upcoming Events](#upcoming-events)
   * [Recent News](#recent-news)
   * [Blockchain - When did it start?](#blockchain-genesis-how-did-it-all-start)
@@ -44,6 +44,7 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 <img src="IBP_2.0.png">
 
 #### Run a [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) (free) on the IBM Cloud
+Kubernetes Service is a managed container service for the rapid delivery of applications that can bind to advanced services like IBM Watson® and blockchain.
 
 ### IBM Blockchain Platform
 - [An Introduction to Programming on Hyperledger Fabric](https://www.slideshare.net/LennartF/ibp-technical-introduction)
@@ -87,17 +88,17 @@ We recommend using a package installer like [Chocolately](https://chocolatey.org
 
 If needed, reference the [installation instructions](https://chocolatey.org/install).
 
-#### Required Packages
-- Install Docker using apt, brew or choco.
-- Install Node (which should install NPM) using apt, brew or choco.
+### Required Packages
+- Install Docker using `apt`, `brew` or `choco`.
+- Install Node (which should install NPM) using `apt`, `brew` or `choco`.
 - Install Yeoman using `npm install -g yo`
 
 For reference, [IBM Cloud documentation](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install) for developing smart contracts with Visual Studio Code extension.
 
-#### [Install Visual Studio Code](https://code.visualstudio.com)
+### [Install Visual Studio Code](https://code.visualstudio.com)
 Download and Install VS Code - a free source-code editor developed by Microsoft and available for Windows, Linux and Mac OS.  It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.
 
-##### [Install IBM Blockchain Platform (extension) for VS Code](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+#### [Install IBM Blockchain Platform (extension) for VS Code](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 <img src="architecture.png">
