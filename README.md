@@ -13,6 +13,7 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
   * [IBM Cloud (Sign-up)](#sign-up-for-ibm-cloud)
     + [Run IBM Blockchain Platform](#run-ibm-blockchain-platform-on-the-ibm-cloud)
     + [Run a free Kubernetes Cluster](#run-a-free-kubernetes-cluster-on-the-ibm-cloud)
+  * [IBM Blockchain Platform](ibm-blockchain-platform)
 - [Development](#development)
   * [Prerequisites](#prerequisites)
     + [Linux](#linux)
@@ -43,6 +44,13 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 <img src="IBP_2.0.png">
 
 #### Run a [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) (free) on the IBM Cloud
+
+### IBM Blockchain Platform
+- [An Introduction to Programming on Hyperledger Fabric](https://www.slideshare.net/LennartF/ibp-technical-introduction)
+
+- [IBM Blockchain Platform (IBP) - Slides](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
+
+- [IBM Blockchain Solutions - Slides](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
 
 ##### Reference
 - [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
@@ -79,28 +87,28 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 
 If needed, reference the [installation instructions](https://chocolatey.org/install).
 
-#### [Visual Studio Code](https://code.visualstudio.com)
-Download and Install VS Code - a free source-code editor developed by Microsoft for Windows, Linux and Mac OS. It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.
+#### Required Packages
+- Install Docker
+- Install Node (which should install NPM)
+- Install Yeoman
+npm install -g yo
+
+For reference, [IBM Cloud documentation](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install) for developing smart contracts with Visual Studio Code extension.
+
+#### [Install Visual Studio Code](https://code.visualstudio.com)
+Download and Install VS Code - a free source-code editor developed by Microsoft and available for Windows, Linux and Mac OS.  It includes support for debugging, embedded Git control and GitHub, syntax highlighting, intelligent code completion, snippets, and code refactoring.
 
 ##### [Install IBM Blockchain Platform (extension) for VS Code](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
-- [An Introduction to Programming on Hyperledger Fabric](https://www.slideshare.net/LennartF/ibp-technical-introduction)
-
-- [IBM Blockchain Platform (IBP) Presentation](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
-
-- [IBM Blockchain Solutions - Slides](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 <img src="architecture.png">
-
+Run IBP on IBM Cloud or locally on your machine.
 ### Hands-On Lab
 **Developing Smart Contracts using Visual Studio (VS) Code**
 
 Ensure you have [VS Code](https://code.visualstudio.com) installed and the [IBM Blockchain Platform extension](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform).
 
-https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install
-
-Go through Tutorial One in VS Code: Local Smart Contract Development.
+Go through Tutorial One in VS Code: Local Smart Contract Development. <br>
 <img src="VSCODE_TUT1.PNG" width="300" height="500">
 Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an <i>application gateway</i>.
 
