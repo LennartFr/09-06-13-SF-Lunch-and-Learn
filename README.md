@@ -1,5 +1,5 @@
 ## GitHub URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
-  **Note:**  Capital "i" and not "l" in the URL.
+**Note:**  Capital "i" and not "l" in the URL.
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # An Introduction to IBM Blockchain Platform (IBP)!
 
@@ -12,7 +12,7 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 - [IBM Cloud and IBM Blockchain Platform](#ibm-cloud-and-ibm-blockchain-platform)
   * [IBM Cloud (Sign-up)](#sign-up-for-ibm-cloud)
     + [Run IBM Blockchain Platform](#run-ibm-blockchain-platform-on-the-ibm-cloud)
-    + [Run a free Kubernetes Cluster](#run-a-free-kubernetes-cluster-on-the-ibm-cloud)
+    + [Run a free Kubernetes Cluster](#run-a-kubernetes-cluster-free-on-the-ibm-cloud)
   * [IBM Blockchain Platform](ibm-blockchain-platform)
 - [Development](#development)
   * [Prerequisites](#prerequisites)
@@ -104,7 +104,7 @@ Download and Install VS Code - a free source-code editor developed by Microsoft 
 <img src="architecture.png">
 Run IBP on IBM Cloud or locally on your machine.
 
-### Hands-On Lab
+### Hands-On Lab :ledger:
 **Developing Smart Contracts using Visual Studio (VS) Code**
 
 - Ensure you have [VS Code](https://code.visualstudio.com) installed and the [IBM Blockchain Platform extension](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform).
@@ -116,7 +116,7 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 ### Additional Lab
 
-[Build a Blockchain Insurance App](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
+:ledger: [Build a Blockchain Insurance App](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -124,7 +124,7 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 ### Upcoming Events
 
-- [Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com) **June 21, 2019** 
+:date: [Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com) | **June 21, 2019** 
 
 Join our Meetup Group: [IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/)
 
