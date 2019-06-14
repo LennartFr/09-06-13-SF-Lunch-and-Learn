@@ -74,7 +74,7 @@ We recommend using a package installer like [Chocolately](https://chocolatey.org
 
 - Install with PowerShell.exe* using the following command: <br>
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-<br>
+
 * An additional step is needed to ensure Get-ExecutionPolicy is not Restricted.
 
 If needed, reference the [installation instructions](https://chocolatey.org/install).
@@ -84,8 +84,6 @@ Download and Install VS Code - a free source-code editor developed by Microsoft 
 
 ##### [Install IBM Blockchain Platform (extension) for VS Code](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
-<img src="architecture.png">
-
 - [An Introduction to Programming on Hyperledger Fabric](https://www.slideshare.net/LennartF/ibp-technical-introduction)
 
 - [IBM Blockchain Platform (IBP) Presentation](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
@@ -93,21 +91,18 @@ Download and Install VS Code - a free source-code editor developed by Microsoft 
 - [IBM Blockchain Solutions - Slides](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+<img src="architecture.png">
 
 ### Hands-On Lab
 **Developing Smart Contracts using Visual Studio (VS) Code**
 
 Ensure you have [VS Code](https://code.visualstudio.com) installed and the [IBM Blockchain Platform extension](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform).
 
-
-
 https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install
 
 Go through Tutorial One in VS Code: Local Smart Contract Development.
-
-Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an <i>application gateway</i>.
-
 <img src="VSCODE_TUT1.PNG" width="300" height="500">
+Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an <i>application gateway</i>.
 
 ### Additional Lab
 [Build a Blockchain Insurance App](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
