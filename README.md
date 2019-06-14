@@ -1,13 +1,16 @@
 # GitHub URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
-Note:  Capital "I" and not "l".
-
-# Introduction to IBM Blockchain Platform 2.0!
+Note:  Capital "i" and not "l".
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+# An Introduction to IBM Blockchain Platform!
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## From Hyperledger Fabric to IBM Blockchain Platform 2.0
 
 Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 
 - [Meetup | SF - Lunch and Learn](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/262038518/)
 - [IBM Developer Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/) (Meetup)
+
+**Contents**
 
 - [Heading](#heading)
   * [Sub-heading](#sub-heading)
