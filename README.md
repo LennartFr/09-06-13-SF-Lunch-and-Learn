@@ -13,9 +13,9 @@
 
 # Learning Objectives:
 
-1. How to launch the IBM Blockchain Platform 2.0 in the IBM Cloud
+1. How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
 
-1. On your laptop: how to install the IBM Visual Studio Code with the IBP plugin
+1. On your laptop: how to install the IBM Visual Studio Code with the brand new IBP plugin
 
 1. How to create your first Smart Contract with Visual Studio Code
 
