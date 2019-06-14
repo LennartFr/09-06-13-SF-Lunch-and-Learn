@@ -121,7 +121,8 @@ IAM Enabled= "Identidy and Access Management"
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Hands-on-lab : Developing smart contracts with Visual Studio Code extension 
+
+# Learning Objective 3: Developing smart contracts with Visual Studio Code extension 
 
 [Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
 
