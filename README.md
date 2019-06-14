@@ -1,80 +1,37 @@
-# Event URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
+# GitHub URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
+Note:  Capital "I" and not "l".
 
-# Title: An introduction to the brand new IBM Blockchain Platform 2.0 in the Cloud!
+# Introduction to IBM Blockchain Platform 2.0!
 ## From Hyperledger Fabric to IBM Blockchain Platform 2.0
 
-# linkedin.com/in/lennartfrantzell
+Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 
-# 09-06-13-SF-Lunch-and-Learn
+- [Meetup | SF - Lunch and Learn](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/262038518/)
+- [IBM Developer Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/) (Meetup)
+
+- [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Reference](#heading-2)
+  * [Upcoming Events](#sub-heading-2)
+  * [Blockchain - When did it start?](#sub-heading-2)
+  * [Hyperledger](#sub-heading-2)
+  * [News](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
+  * [Twitter](#sub-heading-2)
 
 [Whitelisting](https://cloud.ibm.com/registration/whitelist)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## How did it all start?
+##  IBM Blockchain Platform
 
-During the Global Financial Crisis in 2008:<br>
-
-Oct 2008. It all started with Satoshi Nakamoto and his paper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
-<p><i><b>
-A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. 
-<p> 
-Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
-<p>
-We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
-
-## Let's start with Hyperledger Fabric:
-
-### [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)
-
-### [Writing your first application with Smart Contracts in Node.js in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
-
-### [Hyperledger Fabric 1.4.1](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
-
-Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
-
-1. [Hyperledger Fabric’s First long term support release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service)
-
-1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
-    Fault Tolerance consensus algorithm     
-
-[Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
-
-[IBM Blockchain Garage Services](https://www.ibm.com/blockchain/garage)
-
-
-## News
-
-[Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
-
-[Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
-
-[Cargill Hyperledger Grid](https://www.cargill.com/2019/cargill-invests-digital-engineering-to-support-hyperledger-grid)
-
-[Target Blockchain for Supply Chain](https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains)
-
-[Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
-
-## IBM Blockchain Twitter feeds:
-
-Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
-
-Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
-
-Christian Cachin IBM Cryptographer, Zurich. https://twitter.com/cczurich?lang=en
-
-IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
-
-Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-##  Now let's talk about IBM Blockchain Platform 
-
-### IBM Cloud sign-up link: [https://ibm.biz/Bdzqsf](https://ibm.biz/Bdzqsf)
+### Sign-up: [IBM Cloud](https://ibm.biz/Bdzqsf)
 
 <img src="login.png">
-
 
 ### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
 
@@ -109,7 +66,7 @@ IAM Enabled= "Identidy and Access Management"
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Hands-on-lab : Developing smart contracts with Visual Studio Code extension 
+## Hands-on-lab: Developing Smart Contracts with Visual Studio Code 
 
 [Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
 
@@ -125,12 +82,69 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Where do we go from here? 
+## Additional Lab
+[Build a Blockchain Insurance App](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
+
+## Upcoming Events
 
 [June 21: Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
- 
-[Build a blockchain insurance app](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
 
-[IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/)
+[IBM Developer SF Bay Area](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/) (Meetup Group)
 
-[IBM SF Bay Area Meetups](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/)
+[IBM Developer SF Bay Area Events](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/) (Meetup Events)
+
+## Blockchain Genesis: How did it all start?
+
+During the Global Financial Crisis in 2008: Oct 2008. <br>
+It all started with Satoshi Nakamoto and his whitepaper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
+<p><i><b>
+A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution or any intermeditary. 
+<p> 
+Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
+<p>
+We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
+
+## Hyperledger Fabric
+Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
+
+### [HL Fabric (GitHub)](https://github.com/hyperledger/fabric)
+
+### [Writing your first application using Smart Contracts (Node.js) in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
+
+### [Hyperledger Fabric 1.4.1 - Release Notes](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
+
+1. [Hyperledger Fabric’s First LTS (Long Term Support) Release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html)
+
+2. [Raft Ordering Service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) -
+Fault Tolerance Consensus Algorithm   
+
+[Use Cases for Blockchain](https://www.ibm.com/blockchain/use-cases/)
+
+[IBM Blockchain - Garage Services](https://www.ibm.com/blockchain/garage)
+
+
+## Recent News
+
+- [Does Hyperledger Fabric Perform at Scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
+
+- [Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
+
+- [Cargill - Hyperledger Grid](https://www.cargill.com/2019/cargill-invests-digital-engineering-to-support-hyperledger-grid)
+
+- [Target Blockchain for Supply Chain](https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains)
+
+-[Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
+
+## Twitter Accounts to Follow:
+
+- [IBM Blockchain](https://twitter.com/ibmblockchain)
+
+- [Christopher Ferris](https://twitter.com/christo4ferris) | IBM Fellow CTO - Open Technology
+
+- [Arnaud J Le Hors](https://twitter.com/lehors) | IBM - Senior Technical Staff Member
+
+- [Christian Cachin](https://twitter.com/cczurich) | IBM Cryptographer, Zurich
+
+- [Mark Parzygnat](https://twitter.com/meetmarkp) | IBM Blockchain Program Director
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
