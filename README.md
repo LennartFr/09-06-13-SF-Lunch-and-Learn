@@ -10,19 +10,22 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 **Contents**
 
 - [IBM Cloud and IBM Blockchain Platform](#ibm-cloud-and-ibm-blockchain-platform)
-  * [IBM Cloud Sign-up](#sign-up-for-ibm-cloud)
+  * [IBM Cloud (Sign-up)](#sign-up-for-ibm-cloud)
     + [Run IBM Blockchain Platform](#run-ibm-blockchain-platform-on-the-ibm-cloud)
     + [Run a free Kubernetes Cluster](#run-a-free-kubernetes-cluster-on-the-ibm-cloud)
-- [Development](#Development)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Reference](#heading-2)
-  * [Upcoming Events](#sub-heading-2)
-  * [Blockchain - When did it start?](#sub-heading-2)
-  * [Hyperledger](#sub-heading-2)
-  * [News](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-  * [Twitter](#sub-heading-2)
+- [Development](#development)
+  * [Prerequisites](#prerequisites)
+    + [Linux](#linux)
+    + [Mac OS](#mac-os)
+    + [Windows](#windows)
+    + [Packages](#packages)
+    + [Visual Studio Code](#visual-studio-code)
+- [Reference](#reference)
+  * [Upcoming Events](#upcoming-events)
+  * [Blockchain - When did it start?](#blockchain-genesis-how-did-it-all-start)
+  * [Hyperledger (HL) Fabric](#hyperledger-fabric)
+  * [Recent News](#recent-news)
+  * [Twitter Accounts](#twitter-accounts-to-follow)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -50,9 +53,32 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 
 <img src="VSC_BC.png">
 
-### [Visual Studio Code](https://code.visualstudio.com)
+### Prerequisites
 
-### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+#### Linux
+Open your terminal environment and update the respositories and installed packages using the following command <br>
+sudo apt-get update && sudo apt-get dist-upgrade
+
+#### Mac OS
+Recommend using a package installer like [Homebrew](https://brew.sh/) <br>
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+If needed, there are [other installation options](https://docs.brew.sh/Installation)
+
+#### Windows
+Recommend using a package installer like [Chocolately](https://chocolatey.org/) <br>
+- Install with cmd.exe using the following command: <br>
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+- Install with PowerShell.exe* using the following command: <br>
+Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+<br>
+* An additional step is needed to ensure Get-ExecutionPolicy is not Restricted.
+
+If needed, reference the [installation instructions](https://chocolatey.org/install).
+
+#### [Visual Studio Code](https://code.visualstudio.com)
+
+##### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
 <img src="architecture.png">
 
@@ -64,7 +90,8 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-### Hands-on-lab: Developing Smart Contracts with Visual Studio Code 
+### Hands On Lab
+**Developing Smart Contracts using Visual Studio (VS) Code**
 
 [Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
 
@@ -121,7 +148,6 @@ Fault Tolerance Consensus Algorithm
 
 - [IBM Blockchain - Garage Services](https://www.ibm.com/blockchain/garage)
 
-
 ### Recent News
 
 - [Does Hyperledger Fabric Perform at Scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
@@ -132,11 +158,11 @@ Fault Tolerance Consensus Algorithm
 
 - [Target Blockchain for Supply Chain](https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains)
 
--[Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
+- [Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
 
-## Twitter Accounts to Follow:
+### Twitter Accounts to Follow
 
-- [IBM Blockchain](https://twitter.com/ibmblockchain)
+- [IBM Blockchain (Official)](https://twitter.com/ibmblockchain)
 
 - [Christopher Ferris](https://twitter.com/christo4ferris) | IBM Fellow CTO - Open Technology
 
