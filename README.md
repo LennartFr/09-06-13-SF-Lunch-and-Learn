@@ -1,10 +1,10 @@
 ## GitHub URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
-Note:  Capital "i" and not "l".
+**Note:**  Capital "i" and not "l" in the URL.
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # An Introduction to IBM Blockchain Platform!
 
-## From Hyperledger Fabric to IBM Blockchain Platform 2.0
+### From Hyperledger Fabric to IBM Blockchain Platform 2.0
 
 Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 
@@ -24,26 +24,22 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
     + [Sub-sub-heading](#sub-sub-heading-2)
   * [Twitter](#sub-heading-2)
 
-[Whitelisting](https://cloud.ibm.com/registration/whitelist)
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-##  IBM Cloud and Blockchain Platform
+##  IBM Cloud and IBM Blockchain Platform
 
 ### Sign-up: [IBM Cloud](https://ibm.biz/Bdzqsf)
 
 <img src="login.png">
 
-### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
+### [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
 
-### IBM Blockchain Platform in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). Select "Blockchain Platform IBM IAM-enabled"
+### [IBM Blockchain Platform](https://cloud.ibm.com/catalog?search=blockchain) on the IBM Cloud
+Select "Blockchain Platform | IBM IAM-enabled" option.  IAM refers to Identity Access Management.
 
 <img src="IBP_2.0.png">
 
-IAM Enabled= "Identidy and Access Management"
-
-
-### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
+### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) on the IBM Cloud
 
 <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">Blockchain IBP Pricing</a>
 "** Preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud Kubernetes free cluster. Performance will be limited by throughput, storage and functionality. IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
@@ -51,7 +47,6 @@ IAM Enabled= "Identidy and Access Management"
 ## Development
 
 <img src="VSC_BC.png">
-
 
 ### [Visual Studio Code](https://code.visualstudio.com)
 
