@@ -94,7 +94,6 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 IAM Enabled= "Identidy and Access Management"
 
-
 ### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
 
 <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">Blockchain IBP Pricing</a>
@@ -111,7 +110,7 @@ IAM Enabled= "Identidy and Access Management"
 
 <img src="architecture.png">
 
-[An introductioon to programming Hyperledger Fabric](https://www.slideshare.net/LennartF/ibp-technical-introduction)
+[An introduction to programming Hyperledger Fabric](https://www.slideshare.net/LennartF/ibp-technical-introduction)
 
 [IBM Blockchain Platform](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
 
