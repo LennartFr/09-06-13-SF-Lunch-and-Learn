@@ -2,7 +2,7 @@
 **Note:**  Capital "i" and not "l" in the URL.
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# An Introduction to IBM Blockchain Platform!
+# An Introduction to IBM Blockchain Platform (IBP)!
 
 ### From Hyperledger Fabric to IBM Blockchain Platform 2.0
 
@@ -28,21 +28,22 @@ Presented by: [Lennart Frantzell](linkedin.com/in/lennartfrantzell)
 
 ##  IBM Cloud and IBM Blockchain Platform
 
-### Sign-up: [IBM Cloud](https://ibm.biz/Bdzqsf)
+### Sign-up for [IBM Cloud](https://ibm.biz/Bdzqsf)
 
 <img src="login.png">
 
 ### [IBM Cloud Catalog](https://cloud.ibm.com/catalog)
 
-### [IBM Blockchain Platform](https://cloud.ibm.com/catalog?search=blockchain) on the IBM Cloud
-Select "Blockchain Platform | IBM IAM-enabled" option.  IAM refers to Identity Access Management.
+### Run [IBM Blockchain Platform](https://cloud.ibm.com/catalog?search=blockchain) on the IBM Cloud
+- Select the "Blockchain Platform | IBM IAM-enabled" option.
+(IAM refers to Identity Access Management)
 
 <img src="IBP_2.0.png">
 
-### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) on the IBM Cloud
+### Run a [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) on the IBM Cloud
 
-<a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">Blockchain IBP Pricing</a>
-"** Preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud Kubernetes free cluster. Performance will be limited by throughput, storage and functionality. IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
+Reference: <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">IBP Pricing</a>
+"*Preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud Kubernetes (free cluster).  Performance will be limited by throughput, storage and functionality.  IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
 
 ## Development
 
@@ -62,7 +63,7 @@ Select "Blockchain Platform | IBM IAM-enabled" option.  IAM refers to Identity A
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Hands-on-lab: Developing Smart Contracts with Visual Studio Code 
+### Hands-on-lab: Developing Smart Contracts with Visual Studio Code 
 
 [Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
 
@@ -78,10 +79,12 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Additional Lab
+### Additional Lab
 [Build a Blockchain Insurance App](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
 
-## Upcoming Events
+## Reference
+
+### Upcoming Events
 
 [June 21: Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
 
@@ -89,7 +92,7 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 [IBM Developer SF Bay Area Events](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/) (Meetup Events)
 
-## Blockchain Genesis: How did it all start?
+### Blockchain Genesis: How did it all start?
 
 During the Global Financial Crisis in 2008: Oct 2008. <br>
 It all started with Satoshi Nakamoto and his whitepaper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
@@ -100,14 +103,14 @@ Digital signatures provide part of the solution, but the main benefits are lost 
 <p>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
 
-## Hyperledger Fabric
+### Hyperledger Fabric
 Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
 
-### [HL Fabric (GitHub)](https://github.com/hyperledger/fabric)
+#### [HL Fabric (GitHub)](https://github.com/hyperledger/fabric)
 
-### [Writing your first application using Smart Contracts (Node.js) in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
+#### [Writing your first application using Smart Contracts (Node.js) in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
 
-### [Hyperledger Fabric 1.4.1 - Release Notes](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
+#### [Hyperledger Fabric 1.4.1 - Release Notes](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
 
 1. [Hyperledger Fabric’s First LTS (Long Term Support) Release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html)
 
@@ -119,7 +122,7 @@ Fault Tolerance Consensus Algorithm
 [IBM Blockchain - Garage Services](https://www.ibm.com/blockchain/garage)
 
 
-## Recent News
+### Recent News
 
 - [Does Hyperledger Fabric Perform at Scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
 
