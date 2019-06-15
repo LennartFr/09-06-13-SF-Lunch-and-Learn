@@ -135,6 +135,16 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+# Debugging
+
+1. The application uses Node.js and can sometimes get the wrong version of Node.
+1. If npm install gets errors,
+1. do: npm rebuild, npm install
+1. And if that doesn't work, do:
+1. nvm use 8.12.0 npm install or nvm use 8.12.0 npm rebuild npm install
+1. the same if npm start gets errors
+1 You can also do the same if Visual Studio Code console, Local Fabric Ops pane, do Teardown and Restart Fabric Runtime
+
 ## Where do we go from here? 
 
 [June 21: Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
