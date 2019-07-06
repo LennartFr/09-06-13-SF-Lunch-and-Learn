@@ -34,7 +34,7 @@ IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
 Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
+ 
 # Learning Objectives:
 1. Introduction
 
