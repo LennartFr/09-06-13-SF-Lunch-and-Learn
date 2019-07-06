@@ -110,11 +110,11 @@ IAM Enabled= "Identidy and Access Management"
 
 <img src="architecture.png">
 
-[An introduction to programming Hyperledger Fabric](https://www.slideshare.net/LennartF/ibp-technical-introduction)
+[An introduction to programming Hyperledger Fabric SlideShare](https://www.slideshare.net/LennartF/ibp-technical-introduction)
 
-[IBM Blockchain Platform](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
+[IBM Blockchain Platform SlideShare](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
 
-[IBM Blockchain Solutions](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
+[IBM Blockchain Solutions SlideShare](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
