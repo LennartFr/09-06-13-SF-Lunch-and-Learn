@@ -55,6 +55,10 @@ A purely peer-to-peer version of electronic cash would allow online payments to 
 Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
 <p>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
+  
+## Cryptocurrencies
+### Facebook Libra
+Facebook says Libra would be tied to a basket of low-risk securities and traditional, government-issued currencies, such as the dollar, euro, pound and yen. Expected to be launched in 2020, Libra is described as a blockchain-based digital coin that will let Facebook users send and receive money or to pay for services. The goal is for Libra to be used outside of the social network as well: Consumers may eventually be able to use it to pay for a cab or a cup of morning coffee.
 
 ## Let's start with Hyperledger Fabric:
 
